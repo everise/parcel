@@ -1,6 +1,6 @@
 <img src="docs/logo.png" align="right" />
 
-# Parcel [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/everise/parcel/blob/master/LICENSE)
+# Parcel [![Version](https://img.shields.io/badge/version-0.0.1-green.svg?style=flat-square)](https://github.com/everise/parcel) [![GitHub license](https://img.shields.io/github/license/everise/parcel.svg?style=flat-square)](https://github.com/everise/parcel/blob/master/LICENSE)
 > A curated list of awesome READMEs
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
