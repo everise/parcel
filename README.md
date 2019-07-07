@@ -1,4 +1,4 @@
-<img src="doc/logo.png" align="right" />
+<img src="docs/logo.png" align="right" />
 
 # Parcel [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/everise/parcel/blob/master/LICENSE)
 > A curated list of awesome READMEs
